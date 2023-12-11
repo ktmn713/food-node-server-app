@@ -1,0 +1,25 @@
+{
+  "name": "food-node-server-app",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for a food review application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktmn713/food-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Katie Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktmn713/food-node-server-app/issues"
+  },
+  "homepage": "https://github.com/ktmn713/food-node-server-app#readme"
+}
